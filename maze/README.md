@@ -21,5 +21,5 @@ Windows版はReleaseからダウンロードして実行してください。
 ```text
 Maze/
 ├── maze.c++
-└── maze.gid
+└── maze.gif
 ```
