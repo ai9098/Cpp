@@ -105,8 +105,6 @@ void setWall() {
     // ランダム配置する壁の個数(全体の3割)
     int wall_num = (num - 1) * (num - 1) * 0.3;
 
-    // シード値を変更
-    //srand(static_cast<unsigned int>(time(0)));
     // 生成する乱数の範囲(0~5)
     int range = num - 2;
 
