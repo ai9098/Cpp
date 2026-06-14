@@ -17,5 +17,6 @@ Windows版はReleaseからダウンロードして実行してください。
 ## Folder Structure
 ```text
 Maze/
-└── maze.c++
+├── maze.c++
+└── maze.gid
 ```
